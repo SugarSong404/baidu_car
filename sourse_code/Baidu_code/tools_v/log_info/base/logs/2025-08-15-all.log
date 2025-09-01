@@ -1,0 +1,99 @@
+2025-08-15 00:22:32,691 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 00:22:32,727 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 00:22:32,728 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 00:31:22,125 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 00:31:22,165 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 00:31:22,165 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 00:32:17,236 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 00:32:17,273 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 00:32:17,274 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 00:35:54,389 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 00:35:54,425 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 00:35:54,425 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 00:38:31,549 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 00:38:31,585 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 00:38:31,585 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 00:41:43,202 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 00:41:43,237 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 00:41:43,237 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 00:43:41,342 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 00:43:41,382 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 00:43:41,382 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:00:11,562 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:04:19,354 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:04:19,389 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:04:19,390 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:04:55,666 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-15 01:06:02,210 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-15 01:18:32,971 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:18:33,007 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:18:33,007 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:19:15,139 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:19:15,175 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:19:15,176 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:20:15,436 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:20:15,471 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:20:15,472 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:22:26,114 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:22:26,149 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:22:26,150 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:25:31,834 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:25:31,870 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:25:31,871 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:30:38,243 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:30:38,281 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:30:38,281 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:31:04,031 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:31:04,069 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:31:04,069 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:31:45,655 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:31:45,691 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:31:45,692 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 01:42:35,400 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:47:49,571 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 01:47:49,606 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 01:47:49,606 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 02:22:25,164 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 13:55:31,886 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 13:58:20,464 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 13:58:20,501 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 13:58:20,502 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 14:11:06,441 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 14:11:06,476 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 14:11:06,477 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 14:23:42,274 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 14:23:42,313 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 14:23:42,313 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 14:28:25,938 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 14:28:25,975 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 14:28:25,975 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 14:39:59,350 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 14:39:59,386 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 14:39:59,386 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 14:54:40,295 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 14:54:40,332 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 14:54:40,333 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 17:48:57,266 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 17:51:03,632 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-15 17:52:24,715 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 17:52:24,751 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 17:52:24,752 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 18:15:20,679 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 18:15:20,715 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 18:15:20,716 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 18:19:08,560 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 18:19:08,595 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 18:19:08,596 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 18:21:09,003 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 18:21:09,039 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 18:21:09,039 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 18:57:16,278 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 18:57:16,317 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 18:57:16,317 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 19:12:28,351 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 19:17:46,099 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 19:17:46,136 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 19:17:46,137 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-15 19:23:04,291 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-15 19:23:04,326 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-15 19:23:04,327 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!

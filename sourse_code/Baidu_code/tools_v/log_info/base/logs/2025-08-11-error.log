@@ -1,0 +1,618 @@
+2025-08-11 00:36:09,444 serial_wrap.py, line 325, ERROR:get_anwser timeout 
+2025-08-11 00:37:13,532 serial_wrap.py, line 325, ERROR:get_anwser timeout 
+2025-08-11 00:37:13,569 serial_wrap.py, line 142, ERROR:未找到支持的设备
+2025-08-11 00:37:13,569 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:40:06,103 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:40:06,138 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:40:06,139 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:42:50,826 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:42:50,861 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:42:50,862 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:44:11,779 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:44:11,814 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:44:11,815 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:48:23,075 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:48:23,111 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:48:23,112 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:50:10,236 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:50:10,272 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:50:10,273 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:52:14,318 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:52:14,354 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:52:14,354 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:56:32,300 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:56:32,335 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:56:32,335 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 00:59:48,333 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 00:59:48,368 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 00:59:48,369 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:04:58,568 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:04:58,603 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:04:58,604 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:16:10,964 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:16:11,000 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:16:11,001 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:21:47,892 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:21:47,927 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:21:47,928 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:24:57,865 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:24:57,900 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:24:57,901 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:24:58,350 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:25:47,802 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:26:37,412 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:29:35,671 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:29:35,706 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:29:35,707 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:33:19,544 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:33:19,579 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:33:19,579 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:35:28,615 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:35:28,651 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:35:28,651 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:36:17,173 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:36:17,210 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:36:17,210 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:36:17,659 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:37:06,679 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:37:21,384 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:35,235 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:39:35,272 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 01:39:35,272 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 01:39:37,390 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,448 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,449 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,450 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,450 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,451 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,451 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,451 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,452 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,452 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,453 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,453 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,454 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,454 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,455 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,455 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,456 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,456 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,457 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,457 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,458 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,458 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,459 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,459 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,460 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,461 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,461 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,461 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,462 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,463 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,463 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,464 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,464 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,465 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,465 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,466 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,466 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,467 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,467 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,468 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,468 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,469 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,469 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,470 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,470 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,471 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,471 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,472 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,472 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,473 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,473 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,474 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,474 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,475 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,475 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,476 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,476 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,477 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,477 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,478 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,478 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,479 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,479 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,480 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,480 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,481 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,481 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,482 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,482 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,482 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,483 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,483 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,484 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,484 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,485 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,485 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,486 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,486 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,487 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,487 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,488 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,488 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,489 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,489 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,490 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,490 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,491 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,491 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,492 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,492 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,493 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,493 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,494 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,494 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,495 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,495 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,496 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,496 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,497 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,497 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,498 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,498 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,499 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,499 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,500 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,500 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,501 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,501 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,502 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,502 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,503 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,503 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,504 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,504 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,505 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,505 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,506 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,506 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,507 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,507 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,508 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,508 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,509 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,509 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,510 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,510 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,511 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,511 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,512 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,512 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,513 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,513 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,514 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,514 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,515 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,515 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,516 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,516 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,517 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:39:37,518 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 01:40:04,856 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:40:16,350 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:40:30,978 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:45:52,402 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 01:46:29,880 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:52:42,996 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 01:52:42,996 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 02:19:54,352 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 02:19:54,388 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 02:19:54,389 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 02:22:20,685 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 02:22:20,721 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 02:22:20,721 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 02:23:25,640 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 02:24:13,680 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 02:24:13,717 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 02:24:13,717 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2025-08-11 02:31:53,328 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 02:33:08,859 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 02:33:08,893 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 02:33:08,894 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 02:33:49,922 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 02:35:32,336 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 02:38:39,393 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 02:38:39,428 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 02:38:39,429 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 02:38:51,924 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 02:40:06,173 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 02:40:06,210 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 02:40:06,211 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 02:40:20,451 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 03:59:08,887 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:01:05,842 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:01:05,877 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:01:05,878 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:03:40,676 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:03:40,713 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:03:40,713 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:05:48,006 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:05:48,041 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:05:48,042 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:06:07,181 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,877 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,986 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,987 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,987 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,988 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,988 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,989 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,989 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,990 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,990 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,991 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,991 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,992 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,992 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,993 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,994 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,994 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,995 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,995 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,996 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,996 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,997 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,997 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,998 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,998 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,999 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:32,999 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,000 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,001 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,001 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,002 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,002 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,003 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,003 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,004 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,004 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,005 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,005 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,006 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,006 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,007 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,007 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:07:33,008 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 04:11:58,252 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:14:25,207 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:14:25,243 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:14:25,243 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:14:37,914 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:14:50,672 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:15:18,098 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:20:16,326 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:22:13,278 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:23:12,381 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:23:12,418 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:23:12,418 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:24:59,022 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:25:12,106 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:25:12,141 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:25:12,141 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:26:24,596 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:26:24,631 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:26:24,631 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:27:07,037 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:27:43,339 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:27:43,374 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:27:43,375 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:28:36,509 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:30:23,582 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:35:37,563 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:35:37,599 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:35:37,600 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:37:06,997 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:37:07,033 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:37:07,033 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:40:24,956 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:40:24,995 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:40:24,995 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:42:16,582 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:42:35,695 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:42:35,731 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:42:35,732 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:44:49,338 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:46:21,550 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:50:47,923 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 04:50:47,959 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 04:50:47,959 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 04:51:00,460 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:51:12,399 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:51:12,401 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 04:53:08,904 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:54:00,630 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:56:28,163 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:56:44,758 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 04:57:44,484 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:00:07,471 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:00:07,505 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:00:07,506 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:00:21,590 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:00:33,980 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:01:11,678 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:03:14,074 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:03:14,371 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:03:14,488 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:03:14,489 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 05:03:15,490 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 05:03:16,633 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:03:16,739 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:03:16,740 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 05:03:17,741 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 05:17:39,801 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:17:39,836 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:17:39,837 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:19:03,522 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:19:03,558 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:19:03,558 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:21:23,956 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:22:58,987 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:22:59,022 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:22:59,022 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:24:02,810 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:24:19,102 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:24:50,759 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:24:50,794 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:24:50,795 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:25:31,259 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:25:31,263 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 05:25:56,333 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:27:45,005 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:29:04,626 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:29:38,313 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:29:38,348 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:29:38,348 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:30:04,454 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:30:34,153 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:30:34,188 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:30:34,189 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:31:18,055 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:31:44,268 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:31:44,306 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:31:44,306 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 05:33:06,322 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:34:07,230 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 05:38:05,725 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:41:27,565 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 05:41:27,600 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 05:41:27,600 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 06:30:10,466 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:30:58,725 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 06:26:10,710 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:30:14,317 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:30:14,352 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 06:30:14,353 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 06:30:37,079 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 06:30:52,220 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 06:32:37,981 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:32:41,296 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:42,298 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:43,300 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:44,302 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:45,304 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:46,306 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:47,308 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:48,310 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:49,312 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:50,314 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:51,316 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:52,318 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:53,320 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:54,322 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:55,323 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:56,325 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:57,327 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:58,330 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:32:59,332 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:00,334 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:01,336 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:02,338 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:03,340 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:04,342 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:05,344 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:06,346 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:07,348 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:08,350 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:09,352 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:10,354 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:11,356 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:12,358 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:13,360 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:14,362 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:15,364 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:16,366 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:17,368 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:18,371 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:19,373 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:33:20,375 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:35:21,561 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:35:21,597 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 06:35:21,598 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 06:35:22,047 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:35:33,249 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:35:33,284 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 06:35:33,285 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 06:35:34,921 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:35:35,923 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:35:36,925 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:35:37,927 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:35:38,929 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:35:39,931 camera.py, line 51, ERROR:摄像头/dev/cam2不存在
+2025-08-11 06:20:03,889 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:21:14,865 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 06:21:40,410 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 06:21:53,535 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 06:24:43,264 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 06:24:43,299 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 06:24:43,299 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 06:24:43,750 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+                                                                                                                                                                                                                                                                                            2025-08-11 06:24:17,484 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 15:20:29,252 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 15:25:00,028 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 15:25:00,065 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 15:25:00,066 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 15:25:07,761 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 15:25:07,799 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 15:25:07,799 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 15:40:36,786 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 15:52:47,190 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 16:07:13,684 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 16:07:13,720 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 16:07:13,720 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 16:07:14,170 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 16:46:06,561 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 16:56:01,557 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 17:30:02,841 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 17:34:25,204 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 17:34:25,239 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 17:34:25,240 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 17:36:19,922 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 17:36:19,958 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 17:36:19,959 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 17:41:28,445 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 17:41:28,481 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 17:41:28,481 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 17:58:40,378 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 17:58:57,266 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 17:58:57,301 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 17:58:57,302 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 18:05:17,161 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:06:53,891 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:06:53,930 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 18:06:53,930 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 18:29:31,675 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:31:33,855 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:31:33,892 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 18:31:33,893 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 18:34:49,678 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:48:48,954 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:48:48,990 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 18:48:48,991 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 18:52:11,711 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:52:11,747 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 18:52:11,748 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 18:54:30,787 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:54:30,822 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 18:54:30,822 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 18:55:46,838 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 18:55:46,875 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 18:55:46,875 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:12:29,320 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:12:29,356 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:12:29,357 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:12:29,806 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:17:59,584 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:17:59,620 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:17:59,621 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:24:40,888 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 19:26:08,734 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:26:08,773 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:26:08,773 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:26:38,670 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:26:38,706 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:26:38,706 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:30:53,272 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:30:53,309 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:30:53,309 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:37:08,348 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 19:44:45,469 serial_wrap.py, line 139, ERROR:device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-08-11 19:44:45,470 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:44:45,471 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:44:45,914 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:44:45,948 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:44:45,949 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:44:46,414 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:44:46,449 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:44:46,450 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:44:57,606 serial_wrap.py, line 139, ERROR:device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-08-11 19:44:57,607 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:44:57,607 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:45:38,579 serial_wrap.py, line 76, ERROR:get_anwser error:device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-08-11 19:46:12,493 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:46:12,525 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:46:12,525 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:48:42,919 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:48:42,955 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:48:42,956 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 19:48:54,165 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 19:49:04,586 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 19:49:15,020 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 19:49:22,011 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 19:49:22,046 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 19:49:22,047 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 20:06:52,596 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 20:12:19,677 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 20:12:19,713 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 20:12:19,714 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 20:20:19,002 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 20:20:19,038 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 20:20:19,039 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 20:28:44,532 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 20:28:44,568 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 20:28:44,568 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 20:30:42,248 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 20:30:42,287 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 20:30:42,288 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 20:44:44,203 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 20:44:44,239 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 20:44:44,239 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 20:46:47,322 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 20:46:47,358 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 20:46:47,358 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 21:06:21,745 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 21:06:21,783 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 21:06:21,784 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 21:07:30,395 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 21:07:30,431 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 21:07:30,432 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 21:38:40,056 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 21:42:38,967 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 21:42:52,190 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 21:42:52,225 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 21:42:52,226 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 21:45:34,174 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 21:45:34,210 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 21:45:34,210 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 22:01:16,830 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 22:01:16,866 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 22:01:16,866 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 22:05:57,124 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 22:05:57,161 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 22:05:57,162 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 22:06:59,389 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 22:07:44,957 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 22:07:44,993 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 22:07:44,994 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 22:08:12,407 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 22:10:42,866 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 22:10:42,903 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 22:10:42,904 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 22:50:44,523 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 23:01:44,240 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 23:01:44,276 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 23:01:44,276 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 23:04:17,821 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 23:04:17,857 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 23:04:17,858 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 23:10:39,797 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 23:10:39,833 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 23:10:39,834 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 23:13:51,986 camera.py, line 82, ERROR:read:读取图像错误!!!!
+2025-08-11 23:14:23,429 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 23:14:23,465 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 23:14:23,466 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 23:23:51,048 serial_wrap.py, line 323, ERROR:get_anwser timeout 
+2025-08-11 23:23:51,085 serial_wrap.py, line 140, ERROR:未找到支持的设备
+2025-08-11 23:23:51,086 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+2025-08-11 23:31:24,815 camera.py, line 82, ERROR:read:读取图像错误!!!!
