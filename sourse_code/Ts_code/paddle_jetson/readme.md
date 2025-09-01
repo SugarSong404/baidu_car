@@ -1,4 +1,4 @@
 github上下载
-PaddleDetection@release/2.7.1重命名为PaddleDetection放到此处
+PaddleDetection@release/2.6.0重命名为PaddleDetection放到此处
 PaddleOCR@release/2.7.1重命名为PaddleOCR放到此处
 然后建议是把baidu_car\sourse_code\Ts_code\paddle_jetson\PaddleDetection\deploy\python\infer.py中的print都注释掉以免控制台输出看了太乱
