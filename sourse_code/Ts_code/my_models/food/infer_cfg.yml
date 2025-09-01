@@ -1,0 +1,32 @@
+mode: paddle
+draw_threshold: 0.5
+metric: COCO
+use_dynamic_shape: false
+arch: YOLO
+min_subgraph_size: 3
+Preprocess:
+- interp: 2
+  keep_ratio: false
+  target_size:
+  - 640
+  - 640
+  type: Resize
+- type: Permute
+label_list:
+- "\u767D\u83DC"
+- "\u82B9\u83DC"
+- txt
+- "\u56DB\u5B63\u8C46"
+- "\u897F\u7EA2\u67FF"
+- "\u897F\u5170\u82B1"
+- "\u9752\u6912"
+- "\u9E21\u86CB"
+- "\u9E21\u80F8\u8089"
+- "\u8611\u83C7"
+- "\u8C46\u8150"
+- "\u725B\u8089"
+- "\u571F\u8C46"
+- "\u6392\u9AA8"
+- "\u8304\u5B50"
+- "\u5305\u83DC"
+- "\u51AC\u74DC"
